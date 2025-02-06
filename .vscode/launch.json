@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/inamp/Desktop/OS_lab/cs236-xv6-linux/xv6-public",
       "program": "c:/Users/inamp/Desktop/OS_lab/cs236-xv6-linux/xv6-public/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/inamp/Desktop/OS_lab/xv6-public",
+      "program": "c:/Users/inamp/Desktop/OS_lab/xv6-public/build/Debug/outDebug",
+>>>>>>> 8a68ce34f10a80b11418992e7e9a42167149e0bd
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
